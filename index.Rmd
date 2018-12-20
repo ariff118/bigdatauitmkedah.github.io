@@ -1,19 +1,156 @@
 ---
+title: "Program Pembangunan Bakat Analitik Data Raya (Big Data Talent Development Program)"
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<center>  
+<img src="images/logo2.jpg" style="width:100%; height: 25%; margin-right: 18px" align="center">  
+</center>  
 
-<img src="images/logo.jpg" style="width:100%; height: 25%; border:10px solid; margin-right: 18px" align="left">
+---  
+
+## Pendahuluan
+Melalui penubuhan empat belas (14) unit Makmal Data Raya di kampus-kampus di UiTM dijangka akan membantu negara dalam meningkatkan jumlah data profesional dalam bidang analitik data raya di Malaysia.  
+  
+Program ini dijangka akan menghasilkan seramai 2,340 bakat analitik data raya setahun yang mana sekurang-kurangnya seramai 180 orang perlu dihasilkan di setiap Fakulti/Kampus UiTM setahun.  
+  
+DataCamp adalah satu platform pengajaran dan pembelajaran secara dalam talian dalam bidang sains data. Platform ini menawarkan trek dan modul dalam bidang sains data termasuk analitik data raya yang boleh diikuti menggunakan platform Massive Online Open Course (MOOC).  
+  
+---  
+
+## Nama Program
+Program Pembangunan Bakat Analitik Data Raya – “Data Analyst With R” & "Python Programming"  
+  
+---  
+
+## Objektif  
+•	memberi pendedahan kepada para pelajar platform pembelajaran atas talian Datacamp  
+•	memberi pendedahan kepada para pelajar pengatucaraan R dan Python di dalam analisa data raya  
+•	melahirkan lebih ramai graduan yang mahir di dalam bidang analitik data raya di Malaysia  
+  
+---  
+
+## Penganjur  
+Program ini dianjurkan oleh Bahagian Hal Ehwal Akademik UiTM Cawangan Kedah.  
+  
+---  
+
+## Maklumat Program 
+Data Analyst with R  
+Tarikh: 19 Januari - 3 Febuari, 2019 (16 hari)  
+  
+Python Programmer  
+Tarikh: 19 Januari - 28 Januari, 2019 (10 hari)  
+  
+Tempat: Makmal Big Data, UiTM Cawangan Kedah  
+
+**Cara Pembelajaran**  
+Pembelajaran dilakasanakan di dalam 2 mode:  
+  
+1. Face-to-Face - selama 2 hari pada 19 dan 20 Januari 2019, dari jam 8 pagi hingga 5 petang, bertempat di Makmal Big Data, UiTM Kedah.  
+2. Self Online Learning - pembelajaran secara atas talian samada di dalam kampus atau di rumah.  
+  
+*Peserta perlu habiskan semua modul mengikut trek pilihan di dalam tempoh masa yang ditetapkan*
+  
+---  
+
+## Yuran dan Pendaftaran  
+Yuran penyertaan ada **RM200** untuk trek pertama yang didaftar sahaja.  
+Pendaftaran boleh dibuat secara only dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
+Tarikh akhir pendaftaran adalah pada 10hb Januari, 2019.  
+Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM20** sebelum atau pada tarikh 10hb Januari, 2019 dan selebihnya dibayar pada 19hb Januari, 2019.  
+Bayaran deposit boleh dibuat terus secara tunai kepada Encik Kamarul Ariffin Mansor, Blok Akademik 2, Bilik A2-1020. Resit rasmi pembayaran akan dikeluarkan apabila bayaran penuh telah dibuat pada 19hb Januari 2019.  
+  
+| Nota           | Perbandingan kursus yang sama di organisasi luar |  
+|----------------|:------------------------------------------------:|  
+|Kursus          |<img src="images/Screen1.png" style = "width:50%" align = "center">|  
+|Kos             |<img src="images/Screen2.png" style = "width:50%" align = "center">|  
+  
+---  
+
+## Penceramah  
+Kamarul Ariffin Mansor (R Software)  
+Dr. Taniza Tajuddin (Python)  
+	
+---  
+
+## Peserta  
+•	Peserta adalah terdiri dari pelajar semester 3 dan ke atas di peringkat Diploma dan Sarjana Muda UiTM.  
+•	Pelajar tahun akhir dan pelajar yang akan melaksanakan Latihan lndustri pada semester berikutnya adalah digalakkan.  
+•	Pelajar Pascasiswazah juga dibolehkan mengikuti program ini.  
+•	Peserta yang lulus pada Ujian Saringan yang dilaksanakan dalam talian.  
+  
+---  
+
+## Jawatankuasa  
+Penaung	:	Prof. Madya Dr. Shaiful Annuar Khalid (Rektor)  
+Penasihat I	:	Dr. Abdul Majeed Ahmad (Timbalan Rektor HEA)  
+Penasihat II	:	Dr. Abd Latif Abdul Rahman  
+Pengurus Program	:	Kamarul Ariffin Mansor  
+  
+---  
+
+## Trek dan Modul {.tabset}
+
+### Data Analyst with R  
+UiTM Kedah akan mengendalikan TREK Data Analyst with R dimana bersesuaian dengan majoriti pelajar yang mengambil jurusan pengurusan dan sains sosial. Program ini akan berjalan selama 16 hari (1 hari 1 kursus/modul)  
+  
+Trek ini diajar kaedah menggunakan kemahiran pengaturcaraan untuk mengumpulkan data (data wrangling) dan membina alatan (tool development) untuk analisa data. Modul yang terlibat adalah:  
+  
+1. Introduction to R  
+2. Intermediate R  
+3. Introduction to The Tidyverse  
+4. Importing Data in R (Part 1)  
+5. Importing Data in R (Part 2)  
+6. Cleaning Data in R  
+7. Importing & Cleaning Data in R: Case Study  
+8. Data Manipulation in R With dplyr  
+9. Joining Data in R with dplyr  
+10.	Data Visualization with ggplot2 (Part 1)  
+11.	Sentiment Analysis in R: The Tidy Way  
+12.	Introduction to Data  
+13.	Exploratory Data Analysis  
+14.	Exploratory Data Analysis in R: Case Study  
+15.	Correlation & Regression  
+16.	Reporting with R Markdown  
+  
+### Python Programming  
+Python Program dimana bersesuaian kepada pelajar yang mengambil bidang teknikal seperti Sains Komputer. Program ini akan berjalan selama 10 hari (1 hari 1 kursus / modul).  Programmer Python menggunakan kemahiran pengaturcaraan mereka untuk membantah data dan membina alat untuk analisis data. Modul yang perlu dipelajari adalah:  
+  
+1. Introduction to Python for Data Science  
+2. Intermediate Python for Data Science  
+3. Python Data Science Toolbox (Part 1)  
+4. Python Data Science Toolbox (Part 2)  
+5. Importing Data in Python (Part 1)  
+6. Importing Data in Python (Part 2)  
+7. Cleaning Data in Python  
+8. pandas Foundations  
+9. Manipulating DataFrames with pandas  
+10. Introduction to Databases in Python  
+  
+---  
+
+## Pensijilan Profesional Program
+Peserta yang telah lulus dan berjaya memenuhi semua pentaksiran dan berjaya menyelesaikan bagi setiap modul/kemahiran yang diperlukan di dalam Trek akan mendapat Sijil Tamat Trek dan Sijil Tamat setiap modul.  
+  
+| Contoh Sijil |  
+|:------------:|  
+|<img src="images/cert.png" style="width:45%" align="center"> <img src="images/module.png" style="width:45%" align="center">|  
+  
+---  
+
+## Pertanyaan  
+
+Sebarang pertanyaan berkenaan program, sila hubungi:
 
 **Kamarul Ariffin Mansor**  
-**Senior Lecturer**  
 **Faculty of Computer and Mathematical Sciences**  
 **UiTM Kedah Branch Campus**  
+Email: [k.a.mansor@hotmail.com]    
+HP: +60124336901  
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to Tuberculosis (TB) through my work as a Statistical Research Member at [UiTM Kedah](https://kedah.uitm.edu.my/v1/faculties-a-academic-centres/computer-a-mathematical-sciences) in the faculty of Computer and Mathematical Sciences. 
 
-I graduated from the [University of Kentucky](https://math.as.uky.edu/) with a BSc in mathematics in 1992. In 2010 I began working toward my MSc in decision science as a part-time student at [Universiti Utara Malaysia](http://www.sqs.uum.edu.my/index.php/en/), under the school of quantitative sciences where I did my partial thesis paper in Structural Eqauation Modeling (SEM) under the advisement of [Assoc. Prof. Dr. Zahayu Md Yusof](http://expertise.uum.edu.my/DOE/doe_view.aspx?ad_doe=zahayu). I graduated from UUM at the end of 2012.
-
-I am a well-known R enthusiast, including serving on the board and being an active member of [Malaysian R User Public  Group](https://www.meetup.com/Malaysia-R-User-Group/). 
-
-My full CV is available [here](files/cv_kamansor.pdf).
