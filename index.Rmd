@@ -40,18 +40,21 @@ Program ini dianjurkan oleh Bahagian Hal Ehwal Akademik UiTM Cawangan Kedah.
 ---  
 
 ## Maklumat Program 
-Data Analyst with R  
-Tarikh: 19 Januari - 3 Febuari, 2019 (16 hari)  
+Data Analyst with R <img src="images/Rlogo.png" style="width:5%" align="center">  
+Tarikh: 19 Januari - 3 Febuari, 2019 (16 hari)**  
   
-Python Programmer  
-Tarikh: 19 Januari - 28 Januari, 2019 (10 hari)  
+Python Programmer <img src="images/python-logo@2x.png" style="width:15%" align="center">  
+Tarikh: 6 Januari - 17 Januari 2019 (tidak termasuk Jumaat & Sabtu) * **Untuk pelajar CS sahaja**  
+Tarikh: 19 Januari - 28 Januari, 2019 (10 hari)**    
   
 Tempat: Makmal Big Data, UiTM Cawangan Kedah  
+
+** Tertakhluk kepada perubahan bergantung kepada tarikh akhir pelajar menduduiki peperiksaan akhir.  
 
 **Cara Pembelajaran**  
 Pembelajaran dilakasanakan di dalam 2 mode:  
   
-1. Face-to-Face - selama 2 hari pada 19 dan 20 Januari 2019, dari jam 8 pagi hingga 5 petang, bertempat di Makmal Big Data, UiTM Kedah.  
+1. Face-to-Face - 2 hari pertama tarikh program diadakan, dari jam 8 pagi hingga 5 petang, bertempat di Makmal Big Data, UiTM Kedah.  
 2. Self Online Learning - pembelajaran secara atas talian samada di dalam kampus atau di rumah.  
   
 *Peserta perlu habiskan semua modul mengikut trek pilihan di dalam tempoh masa yang ditetapkan*
@@ -60,7 +63,7 @@ Pembelajaran dilakasanakan di dalam 2 mode:
 
 ## Yuran dan Pendaftaran  
 Yuran penyertaan ada **RM200** untuk trek pertama yang didaftar sahaja.  
-Pendaftaran boleh dibuat secara atas talian (online) dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
+Pendaftaran boleh dibuat secara only dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
 Tarikh akhir pendaftaran adalah pada 10hb Januari, 2019.  
 Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM20** sebelum atau pada tarikh 10hb Januari, 2019 dan selebihnya dibayar pada 19hb Januari, 2019.  
 Bayaran deposit boleh dibuat terus secara tunai kepada Encik Kamarul Ariffin Mansor, Blok Akademik 2, Bilik A2-1020. Resit rasmi pembayaran akan dikeluarkan apabila bayaran penuh telah dibuat pada 19hb Januari 2019.  
@@ -90,7 +93,9 @@ Dr. Taniza Tajuddin (Python)
 Penaung	:	Prof. Madya Dr. Shaiful Annuar Khalid (Rektor)  
 Penasihat I	:	Dr. Abdul Majeed Ahmad (Timbalan Rektor HEA)  
 Penasihat II	:	Dr. Abd Latif Abdul Rahman  
-Pengurus Program	:	Kamarul Ariffin Mansor  
+Pengurus Program	:  
+1. Kamarul Ariffin Mansor  
+2. Dr. Taniza Tajuddin  
   
 ---  
 
