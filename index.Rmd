@@ -41,11 +41,11 @@ Program ini dianjurkan oleh Bahagian Hal Ehwal Akademik UiTM Cawangan Kedah.
 
 ## Maklumat Program 
 Data Analyst with R <img src="images/Rlogo.png" style="width:5%" align="center">  
-Tarikh: 19 Januari - 3 Febuari, 2019 (16 hari)**  
+Tarikh: 22 Januari - 12 Febuari, 2019 (16 hari - kecuali cuti hujung minggu)**  
   
 Python Programmer <img src="images/python-logo@2x.png" style="width:15%" align="center">  
 Tarikh: 6 Januari - 17 Januari 2019 (tidak termasuk Jumaat & Sabtu) * **Untuk pelajar CS sahaja**  
-Tarikh: 19 Januari - 28 Januari, 2019 (10 hari)**    
+Tarikh: 22 Januari - 4 Febuari, 2019 (10 hari - kecuali cuti hujung minggu)**    
   
 Tempat: Makmal Big Data, UiTM Cawangan Kedah  
 
@@ -64,9 +64,16 @@ Pembelajaran dilakasanakan di dalam 2 mode:
 ## Yuran dan Pendaftaran  
 Yuran penyertaan ada **RM200** untuk trek pertama yang didaftar sahaja.  
 Pendaftaran boleh dibuat secara only dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
-Tarikh akhir pendaftaran adalah pada 10hb Januari, 2019.  
-Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM20** sebelum atau pada tarikh 10hb Januari, 2019 dan selebihnya dibayar pada 19hb Januari, 2019.  
+Tarikh akhir pendaftaran adalah pada 15hb Januari, 2019.  
+Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM20** sebelum atau pada tarikh 15hb Januari, 2019 dan selebihnya dibayar pada 22 hb Januari, 2019.  
 Bayaran deposit boleh dibuat terus secara tunai kepada Encik Kamarul Ariffin Mansor, Blok Akademik 2, Bilik A2-1020. Resit rasmi pembayaran akan dikeluarkan apabila bayaran penuh telah dibuat pada 19hb Januari 2019.  
+  
+Yuran RM200 yang dikenakan termasuk:  
+1. Sesi 'face-to-face' bersama fasilitator selama 2 hari (minum pagi, makan tengahari dan minum petang disediakan)  
+2. Penggunaan Makmal Big Data sepanjang kursus dari 8 pagi - 5 petang kecuali pada cuti hujung minggu.  
+3. Pembelajaran percuma bagi semua modul bagi trek pilihan pelajar (R atau Python).  
+4. Sijil tamat kursus.  
+
   
 | Nota           | Perbandingan kursus yang sama di organisasi luar |  
 |----------------|:------------------------------------------------:|  
@@ -155,7 +162,7 @@ Sebarang pertanyaan berkenaan program, sila hubungi:
 **Kamarul Ariffin Mansor**  
 **Faculty of Computer and Mathematical Sciences**  
 **UiTM Kedah Branch Campus**  
-Email: [k.a.mansor@hotmail.com]    
+Email: k.a.mansor@hotmail.com    
 HP: +60124336901  
 
 
