@@ -1,5 +1,6 @@
 ---
-title: "Program Pembangunan Bakat Analitik Data Raya (Big Data Talent Development Program)"
+title: "Program Pembangunan Bakat Analitik Data Raya"
+subtitle: "(Big Data Talent Development Program)"
 output:
   html_document:
     toc: TRUE
@@ -24,13 +25,14 @@ DataCamp adalah satu platform pengajaran dan pembelajaran secara dalam talian da
 
 ## Nama Program
 Program Pembangunan Bakat Analitik Data Raya – “Data Analyst With R” & "Python Programming"  
+Siri Ke-3
   
 ---  
 
 ## Objektif  
-•	memberi pendedahan kepada para pelajar platform pembelajaran atas talian Datacamp  
-•	memberi pendedahan kepada para pelajar pengatucaraan R dan Python di dalam analisa data raya  
-•	melahirkan lebih ramai graduan yang mahir di dalam bidang analitik data raya di Malaysia  
+- memberi pendedahan kepada para pelajar platform pembelajaran atas talian Datacamp  
+- memberi pendedahan kepada para pelajar pengatucaraan R dan Python di dalam analisa data raya
+- melahirkan lebih ramai graduan yang mahir di dalam bidang analitik data raya di Malaysia  
   
 ---  
 
@@ -41,11 +43,10 @@ Program ini dianjurkan oleh Bahagian Hal Ehwal Akademik UiTM Cawangan Kedah.
 
 ## Maklumat Program 
 Data Analyst with R <img src="images/Rlogo.png" style="width:5%" align="center">  
-Tarikh: 22 Januari - 12 Febuari, 2019 (16 hari - kecuali cuti hujung minggu)**  
+Tarikh: 15 Julai 2019 - 5 Ogos 2019 (16 hari - kecuali cuti hujung minggu) **  
   
 Python Programmer <img src="images/python-logo@2x.png" style="width:15%" align="center">  
-Tarikh: 6 Januari - 17 Januari 2019 (tidak termasuk Jumaat & Sabtu) * **Untuk pelajar CS sahaja**  
-Tarikh: 22 Januari - 4 Febuari, 2019 (10 hari - kecuali cuti hujung minggu)**    
+Tarikh: 15 Julai - 28 Julai, 2019 (16 hari - kecuali cuti hujung minggu) **  
   
 Tempat: Makmal Big Data, UiTM Cawangan Kedah  
 
@@ -55,7 +56,7 @@ Tempat: Makmal Big Data, UiTM Cawangan Kedah
 Pembelajaran dilakasanakan di dalam 2 mode:  
   
 1. Face-to-Face - 2 hari pertama tarikh program diadakan, dari jam 8 pagi hingga 5 petang, bertempat di Makmal Big Data, UiTM Kedah.  
-2. Self Online Learning - pembelajaran secara atas talian samada di dalam kampus atau di rumah.  
+2. Self Online Learning - pembelajaran secara atas talian (dikawal selia oleh fasilitator).  
   
 *Peserta perlu habiskan semua modul mengikut trek pilihan di dalam tempoh masa yang ditetapkan*
   
@@ -63,16 +64,16 @@ Pembelajaran dilakasanakan di dalam 2 mode:
 
 ## Yuran dan Pendaftaran  
 Yuran penyertaan ada **RM200** untuk trek pertama yang didaftar sahaja.  
-Pendaftaran boleh dibuat secara only dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
-Tarikh akhir pendaftaran adalah pada 15hb Januari, 2019.  
-Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM20** sebelum atau pada tarikh 15hb Januari, 2019 dan selebihnya dibayar pada 22 hb Januari, 2019.  
-Bayaran deposit boleh dibuat terus secara tunai kepada Encik Kamarul Ariffin Mansor, Blok Akademik 2, Bilik A2-1020. Resit rasmi pembayaran akan dikeluarkan apabila bayaran penuh telah dibuat pada 19hb Januari 2019.  
+Pendaftaran boleh dibuat secara online dengan mengisi Google Form di pautan berikut: [Klik Untuk Mendaftar](https://goo.gl/forms/V4DnuvYnrcSLKHa53).  
+Tarikh akhir pendaftaran dan pembayaran adalah pada 30hb Jun, 2019.  
+Pelajar yang telah mendaftar dikehendaki membuat bayaran deposit sebanyak **RM50** sebelum atau pada tarikh 30 Jun, 2019 dan selebihnya dibayar pada 15 Julai, 2019.  
+Bayaran deposit boleh dibuat terus secara tunai kepada Encik Kamarul Ariffin Mansor, Blok Akademik 2, Bilik A2-1020. Resit rasmi pembayaran akan dikeluarkan apabila bayaran penuh telah dibuat pada 15 Julai 2019.  
   
 Yuran RM200 yang dikenakan termasuk:  
 1. Sesi 'face-to-face' bersama fasilitator selama 2 hari (minum pagi, makan tengahari dan minum petang disediakan)  
 2. Penggunaan Makmal Big Data sepanjang kursus dari 8 pagi - 5 petang kecuali pada cuti hujung minggu.  
 3. Pembelajaran percuma bagi semua modul bagi trek pilihan pelajar (R atau Python).  
-4. Sijil tamat kursus.  
+4. Sijil tamat kursus yang diiktiraf oleh Malaysia Digital Economy Corporation (MDEC).  
 
   
 | Nota           | Perbandingan kursus yang sama di organisasi luar |  
@@ -82,25 +83,25 @@ Yuran RM200 yang dikenakan termasuk:
   
 ---  
 
-## Penceramah  
+## Penceramah / Fasilitator  
 Kamarul Ariffin Mansor (R Software)  
 Dr. Taniza Tajuddin (Python)  
 	
 ---  
 
 ## Peserta  
-•	Peserta adalah terdiri dari pelajar semester 3 dan ke atas di peringkat Diploma dan Sarjana Muda UiTM.  
-•	Pelajar tahun akhir dan pelajar yang akan melaksanakan Latihan lndustri pada semester berikutnya adalah digalakkan.  
-•	Pelajar Pascasiswazah juga dibolehkan mengikuti program ini.  
-•	Peserta yang lulus pada Ujian Saringan yang dilaksanakan dalam talian.  
+- Peserta adalah terdiri dari pelajar semester 3 dan ke atas di peringkat Diploma dan Sarjana Muda UiTM.  
+- Pelajar tahun akhir dan pelajar yang akan melaksanakan Latihan lndustri pada semester berikutnya adalah digalakkan.  
+- Pelajar Pascasiswazah juga dibolehkan mengikuti program ini.  
+- Peserta yang lulus pada Ujian Saringan yang dilaksanakan dalam talian.  
   
 ---  
 
 ## Jawatankuasa  
-Penaung	:	Prof. Madya Dr. Shaiful Annuar Khalid (Rektor)  
-Penasihat I	:	Dr. Abdul Majeed Ahmad (Timbalan Rektor HEA)  
-Penasihat II	:	Dr. Abd Latif Abdul Rahman  
-Pengurus Program	:  
+Penaung: **Prof. Madya Dr. Shaiful Annuar Khalid (Rektor)**  
+Penasihat I: **Dr. Abdul Majeed Ahmad (Timbalan Rektor HEA)**  
+Penasihat II:	**Dr. Wan Irham Ishak**  
+Pengurus Program:  
 1. Kamarul Ariffin Mansor  
 2. Dr. Taniza Tajuddin  
   
@@ -152,7 +153,15 @@ Peserta yang telah lulus dan berjaya memenuhi semua pentaksiran dan berjaya meny
 | Contoh Sijil |  
 |:------------:|  
 |<img src="images/cert.png" style="width:45%" align="center"> <img src="images/module.png" style="width:45%" align="center">|  
+|<img src="images/certificate_skill.png" style="width:45%" align="center"> <img src="images/certificate.png" style="width:45%" align="center">|  
   
+---  
+
+## Galeri  
+**Interactive Dashboard Creation using R**  
+
+<img src="images/db_page1.png" style="width:33%" align="center"> <img src="images/db_page2.png" style="width:33%" align="center"> <img src="images/db_page3.png" style="width:33%" align="center">  
+
 ---  
 
 ## Pertanyaan  
