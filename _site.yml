@@ -5,7 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-
+    - text: "Data Camp Deck 2018"
+      href: Data Camp Deck.html
+    - text: "Progress Report"
+      href: Progress Report.html
 output:
   html_document:
     theme: sandstone
